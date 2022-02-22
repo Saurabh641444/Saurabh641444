@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhjejurkar" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhjejurkar?logo=twitter&style=for-the-badge" alt="saurabhjejurkar" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning,NLP and Spectral Technology**
+- 🔭 I’m currently working on **Deep Learning,NLP, Federated Learning, Spectral Technology and Blockchain**
 
-- 🌱 I’m currently learning **Federated Learning, NLP, MLOPS and DSA**
+- 🌱 I’m currently learning **DSA, Federated Learning, NLP and Blockchain**
 
 - 📝 I regularly write threads on [https://twitter.com/SaurabhJejurkar](https://twitter.com/SaurabhJejurkar)
 
