@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA, Federated Learning, NLP and Blockchain**
 
-- 📝 I regularly write threads on [https://twitter.com/SaurabhJejurkar](https://twitter.com/SaurabhJejurkar)
+- 📝  [My Resume](https://drive.google.com/file/d/1reFXvYJCU8Q2py6IfhTDu30tt9rOewm6/view?usp=sharing)
 
 - 📫 How to reach me **saurabhjejurkar4@gmail.com**
 
